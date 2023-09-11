@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>MISA.Core</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Services\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Interfaces\Services\" />
+    <None Remove="Interfaces\Infrastructure\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Interfaces\Infrastructure\" />
+  </ItemGroup>
+</Project>

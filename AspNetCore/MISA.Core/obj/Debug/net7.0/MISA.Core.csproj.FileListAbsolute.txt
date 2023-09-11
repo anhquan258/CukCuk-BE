@@ -1,0 +1,5 @@
+/Users/anhquan/Desktop/Learn/Misa.Web/MISA.Core/obj/Debug/net7.0/MISA.Core.csproj.AssemblyReference.cache
+/Users/anhquan/Desktop/Learn/Misa.Web/MISA.Core/obj/Debug/net7.0/MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhquan/Desktop/Learn/Misa.Web/MISA.Core/obj/Debug/net7.0/MISA.Core.AssemblyInfoInputs.cache
+/Users/anhquan/Desktop/Learn/Misa.Web/MISA.Core/obj/Debug/net7.0/MISA.Core.AssemblyInfo.cs
+/Users/anhquan/Desktop/Learn/Misa.Web/MISA.Core/obj/Debug/net7.0/MISA.Core.csproj.CoreCompileInputs.cache

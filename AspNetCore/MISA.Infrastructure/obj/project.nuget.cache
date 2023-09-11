@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ks50vObvWpEmmm6EfCNu0XpPMbV0NxFqICx0WTm3xsFUr83W02sVwFgNMLYlV2PvLA/l6BD7pDnip8V8ER4ww==",
+  "success": true,
+  "projectFilePath": "/Users/anhquan/Desktop/Learn/FullStack/b19dccn531-ntaquan/b19dccn531-ntaquan/AspNetCore/MISA.Infrastructure/MISA.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/anhquan/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/Users/anhquan/.nuget/packages/mysqlconnector/2.2.7/mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}
